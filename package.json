@@ -1,0 +1,20 @@
+{
+  "name": "js-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pepesrz91: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@github.com/pepesrz91/js-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pepesrz91/js-games/issues"
+  },
+  "homepage": "https://github.com/pepesrz91/js-games#readme"
+}
